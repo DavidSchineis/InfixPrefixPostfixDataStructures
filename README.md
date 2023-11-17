@@ -1,5 +1,5 @@
 # Infix/Prefix/Postfix Project
->A simple program implemented in Java and completed during my data structures class.
+>A program implemented in Java and completed during my data structures class.
 >Processes an infix expression, outputs postfix, prefix, and solution to the expression using a stack.
 
 ## Input
